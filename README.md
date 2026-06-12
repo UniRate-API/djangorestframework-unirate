@@ -155,12 +155,23 @@ tier. Set `UNIRATE_CACHE_TIMEOUT` to cut your upstream call volume.
 - Django 4.2, 5.0, 5.1, 5.2
 - Django REST Framework 3.15–3.16
 
-## Related UniRate clients
+<!-- unirate-ecosystem-footer:start -->
+## Other UniRate clients
 
-Official UniRate libraries: Python, Node/TypeScript, Go, Rust, Ruby, PHP,
-Java, Swift, .NET — plus framework integrations for FastAPI, Flask, Wagtail,
-LangChain, dbt, Airflow, and more. See the
-[UniRate-API org](https://github.com/UniRate-API).
+UniRate ships official client libraries and framework integrations across the
+ecosystem. The repos below are all maintained under the
+[UniRate-API](https://github.com/UniRate-API) org.
+
+- **Languages:** [Python](https://github.com/UniRate-API/unirate-api-python) · [Node.js / TypeScript](https://github.com/UniRate-API/unirate-api-nodejs) · [Go](https://github.com/UniRate-API/unirate-api-go) · [Rust](https://github.com/UniRate-API/unirate-api-rust) · [Java](https://github.com/UniRate-API/unirate-api-java) · [Ruby](https://github.com/UniRate-API/unirate-api-ruby) · [PHP](https://github.com/UniRate-API/unirate-api-php) · [.NET](https://github.com/UniRate-API/unirate-api-dotnet) · [Swift](https://github.com/UniRate-API/unirate-api-swift)
+- **Web frameworks:** [Next.js](https://github.com/UniRate-API/next-unirate) · [SvelteKit](https://github.com/UniRate-API/sveltekit-unirate) · [NestJS](https://github.com/UniRate-API/nestjs-unirate) · [Django / Wagtail](https://github.com/UniRate-API/wagtail-unirate) · [Django REST Framework](https://github.com/UniRate-API/djangorestframework-unirate) · [FastAPI](https://github.com/UniRate-API/fastapi-unirate) · [Flask](https://github.com/UniRate-API/flask-unirate) · [React](https://github.com/UniRate-API/react-unirate) · [tRPC](https://github.com/UniRate-API/trpc-unirate)
+- **Static-site generators:** [Astro](https://github.com/UniRate-API/astro-unirate) · [Eleventy](https://github.com/UniRate-API/eleventy-unirate) · [Hugo](https://github.com/UniRate-API/hugo-unirate)
+- **Data / orchestration:** [Airflow](https://github.com/UniRate-API/airflow-provider-unirate) · [dbt](https://github.com/UniRate-API/dbt-unirate) · [LangChain](https://github.com/UniRate-API/langchain-unirate)
+- **Workflow / no-code:** [n8n](https://github.com/UniRate-API/n8n-nodes-unirate) · [Google Sheets](https://github.com/UniRate-API/unirate-sheets) · [MCP server](https://github.com/UniRate-API/unirate-mcp)
+- **Editors / tools:** [VS Code](https://github.com/UniRate-API/vscode-unirate) · [Obsidian](https://github.com/UniRate-API/obsidian-currency)
+- **Specialty bridges:** [RubyMoney](https://github.com/UniRate-API/money-unirate-api) · [NodaMoney (.NET)](https://github.com/UniRate-API/UniRateApi.NodaMoney)
+
+Get a free API key at [unirateapi.com](https://unirateapi.com).
+<!-- unirate-ecosystem-footer:end -->
 
 ## License
 
